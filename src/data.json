@@ -1,0 +1,259 @@
+[
+    {
+        "id": "sdsfcsd",
+        "category": "Recliner",
+        "price": "430",
+        "bookingGroup": [
+            {
+                "rowName": "A",
+                "noOfSeats": 8,
+                "seats": [
+                    { "id": "A1", "seatnumber": 1, "availability": "available" },
+                    { "id": "A2", "seatnumber": 2, "availability": "available" },
+                    { "id": "A3", "seatnumber": 3, "availability": "available" },
+                    { "id": "A4", "seatnumber": 4, "availability": "available" },
+                    { "id": "A5", "seatnumber": 5, "availability": "available" },
+                    { "id": "A6", "seatnumber": 6, "availability": "available" },
+                    { "id": "A7", "seatnumber": 7, "availability": "available" },
+                    { "id": "A8", "seatnumber": 8, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "B",
+                "noOfSeats": 8,
+                "seats": [
+                    { "id": "B1", "seatnumber": 1, "availability": "available" },
+                    { "id": "B2", "seatnumber": 2, "availability": "available" },
+                    { "id": "B3", "seatnumber": 3, "availability": "available" },
+                    { "id": "B4", "seatnumber": 4, "availability": "available" },
+                    { "id": "B5", "seatnumber": 5, "availability": "available" },
+                    { "id": "B6", "seatnumber": 6, "availability": "available" },
+                    { "id": "B7", "seatnumber": 7, "availability": "available" },
+                    { "id": "B8", "seatnumber": 8, "availability": "available" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uhibiji",
+        "category": "Prime",
+        "price": "380",
+        "bookingGroup": [
+            {
+                "rowName": "C",
+                "noOfSeats": 15,
+                "seats": [
+                    { "id": "C1", "seatnumber": null, "availability": "noseat" },
+                    { "id": "C2", "seatnumber": null, "availability": "noseat" },
+                    { "id": "C3", "seatnumber": null, "availability": "noseat" },
+                    { "id": "C4", "seatnumber": null, "availability": "noseat" },
+                    { "id": "C5", "seatnumber": 1, "availability": "available" },
+                    { "id": "C6", "seatnumber": 2, "availability": "booked" },
+                    { "id": "C7", "seatnumber": 3, "availability": "available" },
+                    { "id": "C8", "seatnumber": 4, "availability": "available" },
+                    { "id": "C9", "seatnumber": 5, "availability": "available" },
+                    { "id": "C10", "seatnumber": 6, "availability": "available" },
+                    { "id": "C11", "seatnumber": 7, "availability": "available" },
+                    { "id": "C12", "seatnumber": 8, "availability": "available" },
+                    { "id": "C13", "seatnumber": 9, "availability": "available" },
+                    { "id": "C14", "seatnumber": null, "availability": "available" },
+                    { "id": "C15", "seatnumber": null, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "D",
+                "noOfSeats": 15,
+                "seats": [
+                    { "id": "D1", "seatnumber": null, "availability": "noseat" },
+                    { "id": "D2", "seatnumber": null, "availability": "noseat" },
+                    { "id": "D3", "seatnumber": 1, "availability": "available" },
+                    { "id": "D4", "seatnumber": 2, "availability": "available" },
+                    { "id": "D5", "seatnumber": 3, "availability": "available" },
+                    { "id": "D6", "seatnumber": 4, "availability": "booked" },
+                    { "id": "D7", "seatnumber": 5, "availability": "available" },
+                    { "id": "D8", "seatnumber": 6, "availability": "available" },
+                    { "id": "D9", "seatnumber": 7, "availability": "available" },
+                    { "id": "D10", "seatnumber": 8, "availability": "available" },
+                    { "id": "D11", "seatnumber": 9, "availability": "available" },
+                    { "id": "D12", "seatnumber": 10, "availability": "available" },
+                    { "id": "D13", "seatnumber": 11, "availability": "available" },
+                    { "id": "D14", "seatnumber": null, "availability": "available" },
+                    { "id": "D15", "seatnumber": null, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "E",
+                "noOfSeats": 15,
+                "seats": [
+                    { "id": "E1", "seatnumber": 1, "availability": "available" },
+                    { "id": "E2", "seatnumber": 2, "availability": "available" },
+                    { "id": "E3", "seatnumber": 3, "availability": "available" },
+                    { "id": "E4", "seatnumber": 4, "availability": "available" },
+                    { "id": "E5", "seatnumber": 5, "availability": "available" },
+                    { "id": "E6", "seatnumber": 6, "availability": "available" },
+                    { "id": "E7", "seatnumber": 7, "availability": "available" },
+                    { "id": "E8", "seatnumber": 8, "availability": "available" },
+                    { "id": "E9", "seatnumber": 9, "availability": "booked" },
+                    { "id": "E10", "seatnumber": 10, "availability": "available" },
+                    { "id": "E11", "seatnumber": 11, "availability": "available" },
+                    { "id": "E12", "seatnumber": 12, "availability": "available" },
+                    { "id": "E13", "seatnumber": 13, "availability": "available" },
+                    { "id": "E14", "seatnumber": 14, "availability": "available" },
+                    { "id": "E15", "seatnumber": 15, "availability": "available" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kfdjnkjfnkj",
+        "category": "Classic",
+        "price": "210",
+        "bookingGroup": [
+            {
+                "rowName": "F",
+                "noOfSeats": 15,
+                "seats": [
+                    { "id": "F1", "seatnumber": 1, "availability": "available" },
+                    { "id": "F2", "seatnumber": 2, "availability": "available" },
+                    { "id": "F3", "seatnumber": 3, "availability": "available" },
+                    { "id": "F4", "seatnumber": 4, "availability": "available" },
+                    { "id": "F5", "seatnumber": 5, "availability": "available" },
+                    { "id": "F6", "seatnumber": 6, "availability": "available" },
+                    { "id": "F7", "seatnumber": 7, "availability": "available" },
+                    { "id": "F8", "seatnumber": 8, "availability": "available" },
+                    { "id": "F9", "seatnumber": 9, "availability": "available" },
+                    { "id": "F10", "seatnumber": 10, "availability": "available" },
+                    { "id": "F11", "seatnumber": 11, "availability": "available" },
+                    { "id": "F12", "seatnumber": 12, "availability": "available" },
+                    { "id": "F13", "seatnumber": 13, "availability": "available" },
+                    { "id": "F14", "seatnumber": 14, "availability": "available" },
+                    { "id": "F15", "seatnumber": 15, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "G",
+                "noOfSeats": 15,
+                "seats": [
+                    { "id": "G1", "seatnumber": 1, "availability": "available" },
+                    { "id": "G2", "seatnumber": 2, "availability": "available" },
+                    { "id": "G3", "seatnumber": 3, "availability": "available" },
+                    { "id": "G4", "seatnumber": 4, "availability": "available" },
+                    { "id": "G5", "seatnumber": 5, "availability": "available" },
+                    { "id": "G6", "seatnumber": 6, "availability": "available" },
+                    { "id": "G7", "seatnumber": 7, "availability": "available" },
+                    { "id": "G8", "seatnumber": 8, "availability": "available" },
+                    { "id": "G9", "seatnumber": 9, "availability": "available" },
+                    { "id": "G10", "seatnumber": 10, "availability": "available" },
+                    { "id": "G11", "seatnumber": 11, "availability": "available" },
+                    { "id": "G12", "seatnumber": 12, "availability": "available" },
+                    { "id": "G13", "seatnumber": 13, "availability": "available" },
+                    { "id": "G14", "seatnumber": 14, "availability": "available" },
+                    { "id": "G15", "seatnumber": 15, "availability": "available" }
+                ]
+            },{
+                "rowName": "H",
+                "noOfSeats": 20,
+                "seats": [
+                    { "id": "H1", "seatnumber": 1, "availability": "booked" },
+                    { "id": "H2", "seatnumber": 2, "availability": "booked" },
+                    { "id": "H3", "seatnumber": 3, "availability": "available" },
+                    { "id": "H4", "seatnumber": 4, "availability": "available" },
+                    { "id": "H5", "seatnumber": 5, "availability": "available" },
+                    { "id": "H6", "seatnumber": 6, "availability": "booked" },
+                    { "id": "H7", "seatnumber": 7, "availability": "available" },
+                    { "id": "H8", "seatnumber": 8, "availability": "available" },
+                    { "id": "H9", "seatnumber": 9, "availability": "available" },
+                    { "id": "H10", "seatnumber": 10, "availability": "available" },
+                    { "id": "H11", "seatnumber": 11, "availability": "booked" },
+                    { "id": "H12", "seatnumber": 12, "availability": "available" },
+                    { "id": "H13", "seatnumber": 13, "availability": "available" },
+                    { "id": "H14", "seatnumber": 14, "availability": "available" },
+                    { "id": "H15", "seatnumber": 15, "availability": "available" },
+                    { "id": "H16", "seatnumber": 16, "availability": "booked" },
+                    { "id": "H17", "seatnumber": 17, "availability": "available" },
+                    { "id": "H18", "seatnumber": 18, "availability": "available" },
+                    { "id": "H19", "seatnumber": 19, "availability": "available" },
+                    { "id": "H20", "seatnumber": 20, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "I",
+                "noOfSeats": 20,
+                "seats": [
+                    { "id": "I1", "seatnumber": 1, "availability": "available" },
+                    { "id": "I2", "seatnumber": 2, "availability": "available" },
+                    { "id": "I3", "seatnumber": 3, "availability": "noseat" },
+                    { "id": "I4", "seatnumber": 4, "availability": "available" },
+                    { "id": "I5", "seatnumber": 5, "availability": "available" },
+                    { "id": "I6", "seatnumber": 6, "availability": "available" },
+                    { "id": "I7", "seatnumber": 7, "availability": "available" },
+                    { "id": "I8", "seatnumber": 8, "availability": "noseat" },
+                    { "id": "I9", "seatnumber": 9, "availability": "available" },
+                    { "id": "I10", "seatnumber": 10, "availability": "available" },
+                    { "id": "I11", "seatnumber": 11, "availability": "available" },
+                    { "id": "I12", "seatnumber": 12, "availability": "available" },
+                    { "id": "I13", "seatnumber": 13, "availability": "available" },
+                    { "id": "I14", "seatnumber": 14, "availability": "noseat" },
+                    { "id": "I15", "seatnumber": 15, "availability": "available" },
+                    { "id": "I16", "seatnumber": 16, "availability": "available" },
+                    { "id": "I17", "seatnumber": 17, "availability": "available" },
+                    { "id": "I18", "seatnumber": 18, "availability": "available" },
+                    { "id": "I19", "seatnumber": 19, "availability": "available" },
+                    { "id": "I20", "seatnumber": 20, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "J",
+                "noOfSeats": 20,
+                "seats": [
+                    { "id": "J1", "seatnumber": 1, "availability": "available" },
+                    { "id": "J2", "seatnumber": 2, "availability": "available" },
+                    { "id": "J3", "seatnumber": 3, "availability": "available" },
+                    { "id": "J4", "seatnumber": 4, "availability": "noseat" },
+                    { "id": "J5", "seatnumber": 5, "availability": "available" },
+                    { "id": "J6", "seatnumber": 6, "availability": "available" },
+                    { "id": "J7", "seatnumber": 7, "availability": "available" },
+                    { "id": "J8", "seatnumber": 8, "availability": "available" },
+                    { "id": "J9", "seatnumber": 9, "availability": "available" },
+                    { "id": "J10", "seatnumber": 10, "availability": "available" },
+                    { "id": "J11", "seatnumber": 11, "availability": "noseat" },
+                    { "id": "J12", "seatnumber": 12, "availability": "available" },
+                    { "id": "J13", "seatnumber": 13, "availability": "available" },
+                    { "id": "J14", "seatnumber": 14, "availability": "available" },
+                    { "id": "J15", "seatnumber": 15, "availability": "available" },
+                    { "id": "J16", "seatnumber": 16, "availability": "available" },
+                    { "id": "J17", "seatnumber": 17, "availability": "available" },
+                    { "id": "J18", "seatnumber": 18, "availability": "noseat" },
+                    { "id": "J19", "seatnumber": 19, "availability": "available" },
+                    { "id": "J20", "seatnumber": 20, "availability": "available" }
+                ]
+            },
+            {
+                "rowName": "K",
+                "noOfSeats": 20,
+                "seats": [
+                    { "id": "K1", "seatnumber": 1, "availability": "available" },
+                    { "id": "K2", "seatnumber": 2, "availability": "available" },
+                    { "id": "K3", "seatnumber": 3, "availability": "available" },
+                    { "id": "K4", "seatnumber": 4, "availability": "available" },
+                    { "id": "K5", "seatnumber": 5, "availability": "noseat" },
+                    { "id": "K6", "seatnumber": 6, "availability": "available" },
+                    { "id": "K7", "seatnumber": 7, "availability": "available" },
+                    { "id": "K8", "seatnumber": 8, "availability": "available" },
+                    { "id": "K9", "seatnumber": 9, "availability": "available" },
+                    { "id": "K10", "seatnumber": 10, "availability": "available" },
+                    { "id": "K11", "seatnumber": 11, "availability": "available" },
+                    { "id": "K12", "seatnumber": 12, "availability": "noseat" },
+                    { "id": "K13", "seatnumber": 13, "availability": "available" },
+                    { "id": "K14", "seatnumber": 14, "availability": "available" },
+                    { "id": "K15", "seatnumber": 15, "availability": "available" },
+                    { "id": "K16", "seatnumber": 16, "availability": "available" },
+                    { "id": "K17", "seatnumber": 17, "availability": "available" },
+                    { "id": "K18", "seatnumber": 18, "availability": "available" },
+                    { "id": "K19", "seatnumber": 19, "availability": "available" },
+                    { "id": "K20", "seatnumber": 20, "availability": "available" }
+                ]
+            }
+        ]
+    }
+]

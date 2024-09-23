@@ -1,38 +1,91 @@
-.App {
-  text-align: center;
+.Bookmyshow {
+  margin: 5vw; /* Margin relative to the viewport width */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.line {
+  border: 0.1rem solid gray; /* Relative border thickness */
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.booking-grid {
+  margin-top: 1rem; /* Margin with relative unit */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.row_label {
+  margin-right: 5%; /* 5% of the container width */
+}
+
+.seats {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  width: 100%;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.booking_row {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.seat {
+  width: 1.5rem; /* Relative width */
+  height: 1.5rem; /* Relative height */
+  border: 0.1rem solid green;
+  color: green;
+  border-radius: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0.5rem; /* Horizontal margin with relative unit */
+  cursor: pointer;
+}
+
+.screen {
+  display: flex;
+  justify-content: center;
+  border: 0.1rem solid green;
+  height: 0.2rem;
+  width: 50%;
+}
+
+.screen-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.seat.selected {
+  background-color: green;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+button {
+  background-color: #f84464;
+  width: 12vw; /* Button width relative to viewport width */
+  height: 7vh; /* Button height relative to viewport height */
+  color: white;
+  border: 0.1rem solid black;
+  border-radius: 0.4rem;
+  text-align: center;
+  margin-top: 0.5rem;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.seat-booked {
+  border: 0.1rem solid gray;
+  background-color: gray;
+  color: white;
+  cursor: not-allowed;
+}
+.seatLegend{
+  display: flex;
+  justify-content: end;
+  position: sticky;
 }
