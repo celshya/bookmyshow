@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="WLlYybmFgtb6WNV6Mc1_">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-1" target="H06j9iiUTwWGpyXk5xIz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-1" value="BookMyShow Layout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-2" target="H06j9iiUTwWGpyXk5xIz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-2" value="BookingGrid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-4" target="H06j9iiUTwWGpyXk5xIz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-4" target="H06j9iiUTwWGpyXk5xIz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-4" value="Booking Group" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-6" value="label - price&lt;div&gt;booking row&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-8" target="H06j9iiUTwWGpyXk5xIz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-8" target="H06j9iiUTwWGpyXk5xIz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-8" value="Booking Row" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-10" value="Label (A-Z)&lt;div&gt;Seats&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H06j9iiUTwWGpyXk5xIz-12" target="H06j9iiUTwWGpyXk5xIz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-12" value="Seats" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H06j9iiUTwWGpyXk5xIz-14" value="id&lt;div&gt;status: AVailable, not available,blocked,no seat&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
