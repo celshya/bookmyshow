@@ -40,33 +40,3 @@ Start the development server:
 npm start
 The app should now be running on http://localhost:3000.
 
-Project Structure
-java
-
-bookmyshow/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── BookingGroup.js
-│   │   ├── BookingGrid.js
-│   │   └── Seats.js
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
-Usage
-Select available seats from the grid.
-Once seats are selected, the total price will be displayed in the button.
-Click the "Pay" button to confirm the booking. The booked seats will turn gray, and they will be disabled for future selection.
-Legend
-Green: Available seats
-Gray: Booked seats
-Responsive Design
-The UI is built with a responsive approach in mind. By using relative units like percentages (%) and em, the seat grid and buttons adapt well to different screen sizes.
-
-Future Enhancements
-Backend Integration: Integrate with a real-time database to persist seat booking information.
-User Authentication: Allow users to log in, manage bookings, and view their history.
-Payment Gateway: Implement a real-world payment integration.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
