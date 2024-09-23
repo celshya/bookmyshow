@@ -29,24 +29,20 @@ To run this project locally, follow these steps:
    git clone https://github.com/celshya/bookmyshow.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd bookmyshow
 Install the dependencies:
 
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
+
 npm start
 The app should now be running on http://localhost:3000.
 
 Project Structure
 java
-Copy code
+
 bookmyshow/
 ├── public/
 ├── src/
